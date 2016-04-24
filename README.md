@@ -1,6 +1,5 @@
 ###EDWARD
-*EDWARD is aimed to afford user to run convolutional neural network for image 
-classificstion and customize it according to the data used. It provides basic*
+*EDWARD is aimed to afford user running convolutional neural network for image classification and customize it according to the data used.*
 
 ####File list
 --------------------------------------------------------------------------------------------------------------------------
@@ -19,7 +18,7 @@ Interface:
 
 
 **Step 1**<br />
-Run **executework** to launch interface.
+Run **executework** to launch interface
 
 **Step 2**<br />
 Press "Create!"
@@ -55,7 +54,7 @@ Basic settings:
 * **Amount of layers:** № of convolutional layers.
 * **Batch size:** № of training examples in a forward-back pass.
 * **Amount of epochs:** № of forward-backward pass of all the training examples.
-* **Size of pooling:** 		
+* **Size of pooling:** Pooling partitions the input image into a set of non-overlapping rectangles.
 
 Advanced:
 * **GPU:** For higher performance GPU might be used.
