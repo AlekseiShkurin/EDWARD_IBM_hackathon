@@ -1,6 +1,6 @@
 ###THE CNN INTERFACE
-CNN Interface is aimed to afford user to run convolutional neural network for image 
-classificstion and customize it according to the data used. It provides basic
+*CNN Interface is aimed to afford user to run convolutional neural network for image 
+classificstion and customize it according to the data used. It provides basic*
 
 ####File list
 --------------------------------------------------------------------------------------------------------------------------
@@ -43,5 +43,5 @@ Advanced:
 * Learning rate		Control of weights and biases.
 
 
-Sincerely,<br />
-Stayin' Alive Team.
+*Sincerely,*<br />
+*Stayin' Alive Team.*
