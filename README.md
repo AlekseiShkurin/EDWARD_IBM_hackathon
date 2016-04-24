@@ -5,14 +5,14 @@ classificstion and customize it according to the data used. It provides basic*
 ####File list
 --------------------------------------------------------------------------------------------------------------------------
 Classifier:
-**logistic_sgd.py**		Multi-class logistic regression<br />
-**mlp.py**			Multilayer perceptron<br />
-**convolutional_mlp.py**	Convolutional neural network<br />
+* **logistic_sgd.py**		Multi-class logistic regression
+* **mlp.py**			Multilayer perceptron
+* **convolutional_mlp.py**	Convolutional neural network
 
 Interface:		
-**tryconsole.py**		Starts calculations on the console<br />
-**testdesign.py** 	Graphical interface<br />
-**executework.py**		Execution code<br />
+* **tryconsole.py**		Starts calculations on the console
+* **testdesign.py** 	Graphical interface
+* **executework.py**		Execution code
 
 Run **executework** to launch interface.
 
