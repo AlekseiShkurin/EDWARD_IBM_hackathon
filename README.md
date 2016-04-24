@@ -1,5 +1,5 @@
 ###EDWARD
-*EDWARD is aimed to afford user running convolutional neural network for image classification and customize it according to the data used.*
+*EDWARD is aimed to afford user running convolutional neural network for image classification and customize it according to the data used. This allows to receive more accurate and justified results in medical imaging analysis.*
 
 ####File list
 --------------------------------------------------------------------------------------------------------------------------
