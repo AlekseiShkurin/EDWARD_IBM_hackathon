@@ -5,24 +5,24 @@ classificstion and customize it according to the data used. It provides basic*
 ####File list
 --------------------------------------------------------------------------------------------------------------------------
 Classifier:
-* **logistic_sgd.py**		Multi-class logistic regression
-* **mlp.py**			Multilayer perceptron
-* **convolutional_mlp.py**	Convolutional neural network
+**logistic_sgd.py**		Multi-class logistic regression<br />
+**mlp.py**			Multilayer perceptron<br />
+**convolutional_mlp.py**	Convolutional neural network<br />
 
 Interface:		
-* **tryconsole.py**		Starts calculations on the console
-* **testdesign.py** 	Graphical interface
-* **executework.py**		Execution code
+**tryconsole.py**		Starts calculations on the console<br />
+**testdesign.py** 	Graphical interface<br />
+**executework.py**		Execution code<br />
 
 Run **executework** to launch interface.
 
 ####Requirements & Guide
 --------------------------------------------------------------------------------------------------------------------------
-Packages: theano, numpy, scipy, pillow, six<br />
-Python version: at least 3.4.X<br />
-Data: zipped directory containing numerical named folders with images(class per folder)<br />
-Format: zip. file<br />
-IMG format: .jpg<br />
+**Packages:** theano, numpy, scipy, pillow, six<br />
+**Python version:** at least 3.4.X<br />
+**Data:** zipped directory containing numerical named folders with images(class per folder)<br />
+**Format:** zip. file<br />
+**IMG format:** .jpg<br />
 
 
 This directory contains the code for implementation
