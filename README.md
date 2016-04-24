@@ -31,12 +31,12 @@ This directory contains the code for implementation
 
 ####Parameters
 -------------------------------------------------------------------------------------------------------------------------
->Basic settings:
+Basic settings:
 * Amount of layers	№ of layers of convolutional layers.
 * Batch size		№ of training examples in a forward-back pass.
 * Amount of epochs	№ of forward-backward pass of all the training examples.
 * Size of pooling		
->
+
 
 Advanced:
 * GPU			For higher performance GPU might be used.
