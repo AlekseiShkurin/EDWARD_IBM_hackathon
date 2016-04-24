@@ -40,8 +40,9 @@ Press "Submit"
 After the appearance of the console output window, press "Start" and wait for the model to train. As it is done, you will be able to scroll the window and analyse the performance
 
 >**Important Note:**
-Currently, load\_data function of the model is still under development. So in order to run the model, one has to specify the path manually. This can be done by setting **datase=""** variable in *convolutional\_mlp* 
+Currently, load\_data function of the model is still under development. So in order to run the model, one has to specify the path manually. This can be done by setting **dataset=" "** variable in *convolutional\_mlp* script to the correct path to the unzipped folder (if you want to use our demo-data, provide a path to the 'testing' folder that you download from the "data" folder)
 >
+
 **Packages:** theano, numpy, scipy, pillow, six<br />
 **Python version:** at least 3.4.X<br />
 **Data Format:** zip. file<br />
