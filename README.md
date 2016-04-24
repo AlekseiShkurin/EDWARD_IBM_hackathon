@@ -21,13 +21,23 @@ Interface:
 **Step 1**<br />
 Run **executework** to launch interface.
 
-**Step 2** <br />
+**Step 2**<br />
+Press "Create!"
+
+**Step 3**<br />
+Specify the parameters, searching for the best combination to fit your data
+
+**Step 4**<br />
+In "Import Data" and specify the path to your *.zip* file
 >**Note:**
-*EDWARD* allows you to create classifiers with unlimited amount of classes in the most simple way. Just create one folder per class and name it numericalluy (i.e. 0, 1, 2, etc.), then place all the *.jpg* images from each class to corresponding folder. After converting the directory to zip file, your dataset is ready. Just select the path to the file in *EDWARD* and press "Submit"
+*EDWARD* allows you to create classifiers with unlimited amount of classes in the most simple way. Just create one folder per class and name it numericalluy (i.e. 0, 1, 2, etc.), then place all the *.jpg* images from each class to corresponding folder. After converting the directory to *.zip* file, your dataset is ready. Just select the path to the file in *EDWARD* and press "Submit"
 >
 
-**Step 3**
-**Step 4**
+**Step 5**<br />
+Press "Submit"
+
+**Step 6**<br />
+After the appearance of the console output window, press "Start" and wait for the model to train. As it is done, you will be able to scroll the window and analyse the performance
 
 **Packages:** theano, numpy, scipy, pillow, six<br />
 **Python version:** at least 3.4.X<br />
