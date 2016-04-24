@@ -25,6 +25,7 @@ Run **executework** to launch interface.
 >**Note:**
 *EDWARD* allows you to create classifiers with unlimited amount of classes in the most simple way. Just create one folder per class and name it numericalluy (i.e. 0, 1, 2, etc.), then place all the *.jpg* images from each class to corresponding folder. After converting the directory to zip file, your dataset is ready. Just select the path to the file in *EDWARD* and press "Submit"
 >
+
 **Step 3**
 **Step 4**
 
