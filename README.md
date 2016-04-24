@@ -1,4 +1,4 @@
-THE CNN INTERFACE README
+###THE CNN INTERFACE
 
 
 ####File list
@@ -40,14 +40,15 @@ This directory contains the code for implementation
 ####Parameters
 -------------------------------------------------------------------------------------------------------------------------
 Basic settings:
-Amount of layers	№ of layers of convolutional layers.
-Batch size		№ of training examples in a forward-back pass.
-Amount of epochs	№ of forward-backward pass of all the training examples.
-Size of pooling		
+* Amount of layers	№ of layers of convolutional layers.
+* Batch size		№ of training examples in a forward-back pass.
+* Amount of epochs	№ of forward-backward pass of all the training examples.
+* Size of pooling		
 
 Advanced:
-GPU			For higher performance GPU might be used.
+* GPU			For higher performance GPU might be used.
 Size of filter		Size of a matrix looking for a particular feature (depends of image size).
+
 Learning rate		Control of weights and biases.
 
 
