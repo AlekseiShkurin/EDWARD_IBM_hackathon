@@ -4,14 +4,14 @@ THE CNN INTERFACE README
 ###File list
 --------------------------------------------------------------------------------------------------------------------------
 Classifier:
-*logistic_sgd.py*		Multi-class logistic regression
-*mlp.py*			Multilayer perceptron
-*convolutional_mlp.py*	Convolutional neural network
+* **logistic_sgd.py**		Multi-class logistic regression
+* **mlp.py**			Multilayer perceptron
+* **convolutional_mlp.py**	Convolutional neural network
 
 Interface:		
-*tryconsole.py*		Starts calculations on the console
-*testdesign.py*		Graphical interface
-*executework.py*		Execution code
+* **tryconsole.py**		Starts calculations on the console
+* **testdesign.py** 	Graphical interface
+* **executework.py**		Execution code
 
 Run 'executework' to launch interface.
 
