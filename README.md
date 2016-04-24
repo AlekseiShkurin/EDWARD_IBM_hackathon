@@ -40,6 +40,7 @@ Basic settings:
 
 Advanced:
 * GPU             | For higher performance GPU might be used.
+* ----------------|----------------------------------------------------------------------------
 * Size of filter  |		Size of a matrix looking for a particular feature (depends of image size).
 * Learning rate   |		Control of weights and biases.
 
