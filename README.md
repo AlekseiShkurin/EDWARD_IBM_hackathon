@@ -1,5 +1,5 @@
-###THE EDWARD INTERFACE
-*EDWARD Interface is aimed to afford user to run convolutional neural network for image 
+###EDWARD
+*EDWARD is aimed to afford user to run convolutional neural network for image 
 classificstion and customize it according to the data used. It provides basic*
 
 ####File list
