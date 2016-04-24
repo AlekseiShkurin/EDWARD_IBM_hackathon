@@ -18,11 +18,11 @@ Run **executework** to launch interface.
 
 ####Requirements & Guide
 --------------------------------------------------------------------------------------------------------------------------
-Packages: theano, numpy, scipy, pillow, six
-Python version: at least 3.4.X
-Data: zipped directory containing numerical named folders with images(class per folder)
-Format: zip. file
-IMG format: .jpg
+Packages: theano, numpy, scipy, pillow, six<br />
+Python version: at least 3.4.X<br />
+Data: zipped directory containing numerical named folders with images(class per folder)<br />
+Format: zip. file<br />
+IMG format: .jpg<br />
 
 
 This directory contains the code for implementation
