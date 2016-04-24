@@ -43,5 +43,5 @@ Advanced:
 * Learning rate		Control of weights and biases.
 
 
-Sincerely,__
+Sincerely,<br />
 Stayin' Alive Team.
