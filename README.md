@@ -4,10 +4,10 @@ classificstion and customize it according to the data used. It provides basic*
 
 ####File list
 --------------------------------------------------------------------------------------------------------------------------
-Classifier:
+Classifiers:
 * **logistic_sgd.py**		Multi-class logistic regression
 * **mlp.py**			Multilayer perceptron
-* **convolutional_mlp.py**	Convolutional neural network
+* **convolutional_mlp.py**	Convolutional Neural Network
 
 Interface:		
 * **tryconsole.py**		Starts calculations on the console
