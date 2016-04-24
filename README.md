@@ -16,20 +16,20 @@ Interface:
 
 ####Requirements & Guide
 --------------------------------------------------------------------------------------------------------------------------
+
+
+**Step 1**<br />
+Run **executework** to launch interface.
+
+**Step 2** <br />
+>**Note:**
+*EDWARD* allows you to create classifiers with unlimited amount of classes in the most simple way. Just create one folder per class and name it numericalluy (i.e. 0, 1, 2, etc.), then place all the *.jpg* images from each class to corresponding folder. After converting the directory to zip file, your dataset is ready. Just select the path to the file in *EDWARD* and press "Submit"
+>
+
 **Packages:** theano, numpy, scipy, pillow, six<br />
 **Python version:** at least 3.4.X<br />
 **Data Format:** zip. file<br />
 **IMG format:** .jpg<br />
-
-Step 1
-Run **executework** to launch interface.
-
-Step 2 
->**Note:**
-*EDWARD* allows you to create alassifiers with unlimited amount of classes in a most simple way. Just create one folder per class and name it numericalluy (i.e. 0, 1, 2, etc.), then place all the *.jpg* images from each class to corresponding folder. After converting the directory to zip file, your dataset is ready. Just select the path to the file in *EDWARD* and press "Submit"
->
-
-
 
 
 ####Parameters
