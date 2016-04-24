@@ -1,7 +1,7 @@
 THE CNN INTERFACE README
 
 
-###File list
+####File list
 --------------------------------------------------------------------------------------------------------------------------
 Classifier:
 * **logistic_sgd.py**		Multi-class logistic regression
@@ -13,18 +13,18 @@ Interface:
 * **testdesign.py** 	Graphical interface
 * **executework.py**		Execution code
 
-Run 'executework' to launch interface.
+Run **executework** to launch interface.
 
 
 
-###Description
+####Description
 --------------------------------------------------------------------------------------------------------------------------
-'Program' is aimed to afford user to run convolutional neural network for image 
+CNN Interface is aimed to afford user to run convolutional neural network for image 
 classificstion and customize it according to the data used. 
 
 
 
-###Requirements & Guide
+####Requirements & Guide
 --------------------------------------------------------------------------------------------------------------------------
 Packages: theano, numpy, scipy, pillow, six
 Python version: at least 3.4.X
@@ -37,7 +37,7 @@ This directory contains the code for implementation
 
 
 
-###Parameters
+####Parameters
 -------------------------------------------------------------------------------------------------------------------------
 Basic settings:
 Amount of layers	№ of layers of convolutional layers.
