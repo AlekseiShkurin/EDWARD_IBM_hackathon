@@ -1,5 +1,5 @@
 ###EDWARD
-*EDWARD is aimed to afford user running convolutional neural network for image classification and customize it according to the data used. This allows to receive more accurate and justified results in medical imaging analysis.*
+*EDWARD is aimed to allow user running convolutional neural network for image classification and customize it according to the data used. This allows to receive more accurate and justified results in medical imaging analysis.*
 
 ####File list
 --------------------------------------------------------------------------------------------------------------------------
@@ -43,6 +43,11 @@ Currently, load\_data function of the model is still under development. So in or
 >
 
 **Packages:** theano, numpy, scipy, pillow, six<br />
+`pip install theano`<br />
+`pip install numpy`<br />
+`pip install scipy`<br />
+`pip install pillow`<br />
+`pip install six`<br />
 **Python version:** at least 3.4.X<br />
 **Data Format:** zip. file<br />
 **IMG format:** .jpg<br />
