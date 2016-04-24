@@ -1,5 +1,6 @@
 ###THE CNN INTERFACE
-
+CNN Interface is aimed to afford user to run convolutional neural network for image 
+classificstion and customize it according to the data used. It provides basic
 
 ####File list
 --------------------------------------------------------------------------------------------------------------------------
@@ -14,15 +15,6 @@ Interface:
 * **executework.py**		Execution code
 
 Run **executework** to launch interface.
-
-
-
-####Description
---------------------------------------------------------------------------------------------------------------------------
-CNN Interface is aimed to afford user to run convolutional neural network for image 
-classificstion and customize it according to the data used. 
-
-
 
 ####Requirements & Guide
 --------------------------------------------------------------------------------------------------------------------------
@@ -47,9 +39,8 @@ Basic settings:
 
 Advanced:
 * GPU			For higher performance GPU might be used.
-Size of filter		Size of a matrix looking for a particular feature (depends of image size).
-
-Learning rate		Control of weights and biases.
+* Size of filter		Size of a matrix looking for a particular feature (depends of image size).
+* Learning rate		Control of weights and biases.
 
 
 Sincerely,
