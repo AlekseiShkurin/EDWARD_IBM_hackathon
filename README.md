@@ -14,18 +14,21 @@ Interface:
 * **testdesign.py** 	Graphical interface
 * **executework.py**		Execution code
 
-Run **executework** to launch interface.
-
 ####Requirements & Guide
 --------------------------------------------------------------------------------------------------------------------------
 **Packages:** theano, numpy, scipy, pillow, six<br />
 **Python version:** at least 3.4.X<br />
-**Data:** zipped directory containing numerical named folders with images(class per folder)<br />
-**Format:** zip. file<br />
+**Data Format:** zip. file<br />
 **IMG format:** .jpg<br />
 
+Step 1
+Run **executework** to launch interface.
 
-This directory contains the code for implementation
+Step 2 
+>**Note:**
+*EDWARD* allows you to create alassifiers with unlimited amount of classes in a most simple way. Just create one folder per class and name it numericalluy (i.e. 0, 1, 2, etc.), then place all the *.jpg* images from each class to corresponding folder. After converting the directory to zip file, your dataset is ready. Just select the path to the file in *EDWARD* and press "Submit"
+>
+
 
 
 
