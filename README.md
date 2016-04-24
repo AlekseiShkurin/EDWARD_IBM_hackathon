@@ -4,8 +4,8 @@ THE CNN INTERFACE README
 ###File list
 --------------------------------------------------------------------------------------------------------------------------
 Classifier:
-logistic_sgd.py		Multi-class logistic regression
-mlp.py			Multilayer perceptron
+..*logistic_sgd.py		Multi-class logistic regression
+..*mlp.py			Multilayer perceptron
 convolutional_mlp.py	Convolutional neural network
 
 Interface:		
