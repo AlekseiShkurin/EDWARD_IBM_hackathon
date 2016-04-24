@@ -43,7 +43,7 @@ Advanced:
 * Learning rate: Control of weights and biases.
 
 >Note:<br />
-We restric parameters to optimal numbers to minimize human error.
+We restric parameters to optimal numbers to minimize human error.<br />
 >
 
 *Sincerely,*<br />
