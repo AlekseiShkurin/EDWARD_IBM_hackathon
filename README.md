@@ -1,7 +1,7 @@
-###EDWARD
-*EDWARD is aimed to allow user running convolutional neural network for image classification and customize it according to the data used. This allows to receive more accurate and justified results in medical imaging analysis.*
+### EDWARD
+*EDWARD is a solution to 2016 IBM Watson Hackathon. In this work, we developed a graphical user interface for training Convolutional Neural Networks (CNNs), specifically design to support training on biomedical images (X-rays, MRI scans etc). The goal is to create tools that would increase the quality of medical imaging analysis.*
 
-####File list
+#### File list
 --------------------------------------------------------------------------------------------------------------------------
 Classifiers:
 * **logistic_sgd.py**		Multi-class logistic regression
@@ -13,7 +13,7 @@ Interface:
 * **testdesign.py** 	Graphical interface
 * **executework.py**		Execution code
 
-####Requirements & Guide
+#### Requirements & Guide
 --------------------------------------------------------------------------------------------------------------------------
 
 
@@ -53,7 +53,7 @@ Currently, load\_data function of the model is still under development. So in or
 **IMG format:** .jpg<br />
 
 
-####Parameters
+#### Parameters
 -------------------------------------------------------------------------------------------------------------------------
 Basic settings:
 * **Amount of layers:** № of convolutional layers.
